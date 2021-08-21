@@ -13,7 +13,7 @@ Clone the repo.
 
 Then build it using Visual Studio.
 
-Once built, make two shortcuts to the exe, one with the argument "open". The shortcut without the arguement will open the editor, and the shortcut with the arguement will open all the links.
+Once built, make two shortcuts to the exe, one with the argument "open". The shortcut without the argument will open the editor, and the shortcut with the argument will open all the links.
 
 In the editor, double clicking any entry will open an editor to change its name and URL.
 
